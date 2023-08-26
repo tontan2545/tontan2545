@@ -1,5 +1,5 @@
 # Hello There! 👋
-I'm Nonthapat Kaewamporn, a second year Robotics and Artificial Intelligence Engineering Student from International School of Engineering, Chulalongkorn University.
+I'm Nonthapat Kaewamporn, a final year Robotics and Artificial Intelligence Engineering Student from International School of Engineering, Chulalongkorn University.
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
