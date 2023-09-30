@@ -1,4 +1,4 @@
-![image](https://github.com/tontan2545/tontan2545/assets/43312669/164bb907-0803-41c7-93a4-b60deba53907)# Hello There! 👋
+# Hello There! 👋
 I'm Nonthapat Kaewamporn, a final year Robotics and Artificial Intelligence Engineering Student from International School of Engineering, Chulalongkorn University.
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,8 +29,8 @@ I'm Nonthapat Kaewamporn, a final year Robotics and Artificial Intelligence Engi
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Certifications
-![Cloud Practitioner](https://github.com/tontan2545/tontan2545/assets/43312669/86c25d30-6f93-42f5-ab38-308e6baf43c0)
-![Solution Architect Associate](https://github.com/tontan2545/tontan2545/assets/43312669/e7cb7be5-592c-441e-83ec-b0d54929244c)
+<img src='https://github.com/tontan2545/tontan2545/assets/43312669/86c25d30-6f93-42f5-ab38-308e6baf43c0' width='100'>
+<img src='https://github.com/tontan2545/tontan2545/assets/43312669/e7cb7be5-592c-441e-83ec-b0d54929244c' width='100'>
 
 ## GitHub stats
 ![Tontan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tontan2545&count_private=true&show_icons=true&theme=vue)
