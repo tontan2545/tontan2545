@@ -1,4 +1,4 @@
-# Hello There! 👋
+![image](https://github.com/tontan2545/tontan2545/assets/43312669/164bb907-0803-41c7-93a4-b60deba53907)# Hello There! 👋
 I'm Nonthapat Kaewamporn, a final year Robotics and Artificial Intelligence Engineering Student from International School of Engineering, Chulalongkorn University.
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,20 +28,10 @@ I'm Nonthapat Kaewamporn, a final year Robotics and Artificial Intelligence Engi
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+### Certifications
+![Cloud Practitioner](https://github.com/tontan2545/tontan2545/assets/43312669/86c25d30-6f93-42f5-ab38-308e6baf43c0)
+![Solution Architect Associate](https://github.com/tontan2545/tontan2545/assets/43312669/e7cb7be5-592c-441e-83ec-b0d54929244c)
+
 ## GitHub stats
 ![Tontan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tontan2545&count_private=true&show_icons=true&theme=vue)
 
-<!--
-**tontan2545/tontan2545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
