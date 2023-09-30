@@ -30,7 +30,7 @@ I'm Nonthapat Kaewamporn, a final year Robotics and Artificial Intelligence Engi
 
 ### Certifications
 <img src='https://github.com/tontan2545/tontan2545/assets/43312669/86c25d30-6f93-42f5-ab38-308e6baf43c0' width='100'>
-<img src='https://github.com/tontan2545/tontan2545/assets/43312669/e7cb7be5-592c-441e-83ec-b0d54929244c' width='100'>
+<img src='https://github.com/tontan2545/tontan2545/assets/43312669/e7cb7be5-592c-441e-83ec-b0d54929244c' width='103'>
 
 ## GitHub stats
 ![Tontan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tontan2545&count_private=true&show_icons=true&theme=vue)
